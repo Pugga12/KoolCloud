@@ -1,12 +1,12 @@
-Copyright 2020 KitKat contributors.
+Copyright 2021 KoolKode contributors.
 
-KitKat's mofifications to Scratch 1.4 are released under the MIT License. Code originally part of Scratch 1.4 remains under the Scratch Source Code License.
+KoolKode's mofifications to Scratch 1.4 are released under the MIT License. Code originally part of Scratch 1.4 remains under the Scratch Source Code License.
 
-When disributing KitKat as a whole, you must follow the terms of both licenses.
+When disributing KoolKode as a whole, you must follow the terms of both licenses.
 
 ## MIT License
 
-    Copyright (c) 2020 KitKat contributors
+    Copyright (c) 2021 KoolKode contributors
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -49,3 +49,5 @@ When disributing KitKat as a whole, you must follow the terms of both licenses.
       5. The source code for any Derivative Work based on this software shall be made readily available to the public, ideally on a public web site, free of charge.
 
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+(Credits to this awesome file goes to GitHub and Scratch user techboyg5!)
