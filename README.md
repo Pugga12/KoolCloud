@@ -4,3 +4,5 @@ A password-free Scratch 1.4 mod entirely coded in SqueakJS. To use this mod, go 
 Proud to be one of the only people actively developing a Scratch 1.4 mod right now!
 
 NOTE: KOOLKODE IS IN NO WAY AFFILIATED WITH SCRATCH, OF THE MIT MEDIA LAB.
+# More 
+This fork is the only version of koolkode to exist, the owner's account got deleted
